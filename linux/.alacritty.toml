@@ -1,0 +1,18 @@
+[general]
+#import = ["~/.config/alacritty/themes/themes/hyper.toml"]
+#import = ["~/.config/alacritty/themes/themes/iterm.toml"]
+#import = ["~/.config/alacritty/themes/themes/linux.toml"]
+#import = ["~/.config/alacritty/themes/themes/kitty.toml"]
+#import = ["~/.config/alacritty/themes/themes/xterm.toml"]
+#import = ["~/.config/alacritty/themes/themes/smoooooth.toml"]
+#import = ["~/.config/alacritty/themes/themes/seashells.toml"]
+import = ["~/.config/alacritty/themes/themes/seashells.toml"]
+
+[window]
+
+opacity = 0.9
+padding = {x = 10, y=10}
+
+[font]
+size = 12.0
+normal = { family = "JetBrainsMonoNerdFont", style = "Regular" }
